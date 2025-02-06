@@ -24,7 +24,7 @@ This notebook explores model interpretability techniques including Partial Depen
 - ALE plot analysis accounting for feature interactions
 
 ## Key Files
-- `model_interpretability.ipynb`: Main notebook containing all analysis
+- `AIXHW4.ipynb`: Main notebook containing all analysis
 
 ## Usage
 1. Install required dependencies
